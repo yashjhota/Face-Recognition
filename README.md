@@ -20,5 +20,3 @@ The **Face Recognition Attendance System** is a cutting-edge tool for managing a
 
 ---
 
-### System Statistics 📊
-- **Registered Users**: ![Users Count](YOUR_SCREENSHOT_PATH_HERE)  
